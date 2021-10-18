@@ -1,4 +1,5 @@
-[
+{
+"services": [
     {
         "id": "1",
         "name": "Dental Services",
@@ -36,3 +37,4 @@
         "description": "Cardiovascular disease (CVD) is a class of diseases that involve the heart or blood vessels.[2] CVD includes coronary artery diseases (CAD) such as angina and myocardial infarction (commonly known as a heart attack).[2] Other CVDs include stroke, heart failure, hypertensive heart disease, rheumatic heart disease, cardiomyopathy, abnormal heart rhythms, congenital heart disease, valvular heart disease, carditis, aortic aneurysms, peripheral artery disease, thromboembolic disease, and venous thrombosis.[2][3]The underlying mechanisms vary depending on the disease.[2] Coronary artery disease, stroke, and peripheral artery disease involve atherosclerosis.[2] This may be caused by high blood pressure, smoking, diabetes mellitus, lack of exercise, obesity, high blood cholesterol, poor diet, excessive alcohol consumption,[2] and poor sleep,[5][6] among others. High blood pressure is estimated to account for approximately 13% of CVD deaths, while tobacco accounts for 9%, diabetes 6%, lack of exercise 6% and obesity 5%.[2] Rheumatic heart disease may follow untreated strep throat.[2]"
     }
 ]
+}
